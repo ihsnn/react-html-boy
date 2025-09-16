@@ -7,7 +7,7 @@ function App() {
 
   return (
     <RecoilRoot>
-      <BrowserRouter basename='htmlboy'>
+      <BrowserRouter basename='/'>
         <Routing/>
       </BrowserRouter>
     </RecoilRoot>
